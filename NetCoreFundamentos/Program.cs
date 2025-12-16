@@ -11,7 +11,7 @@ namespace NetCoreFundamentos
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form06EMail()/*Fom05Char()*/ /*Form04DateTime()*//*Form03DiaNacimiento()*//*Form02ColoresPosicion()*//*Form01SumarNumeros()*/);
+            Application.Run(new Form13TiendaProductos());
 
         }
     }
