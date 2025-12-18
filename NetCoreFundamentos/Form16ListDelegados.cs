@@ -46,7 +46,7 @@ namespace NetCoreFundamentos
             //queremos acceder al objeto que ha realizado la peticion al metodo
             //Mediante sender se captura dicho objeto
             ((Button)sender).BackColor = Color.AliceBlue;
-            sender.Text = "Pulsado";
+            
         }
     }
 }
